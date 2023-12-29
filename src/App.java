@@ -8,7 +8,8 @@ public class App {
     bird1.fly();
     Fish fish1 = new Fish(2, "F", 1);
     fish1.swim();
-
+    Chicken chick1 = new Chicken(6, "F", 3);
+    chick1.fly();
     // end main method
     }
 
